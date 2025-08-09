@@ -1,4 +1,4 @@
-package leetcode75;
+package leetcode75.easy;
 
 // 1768. Merge Strings Alternately
 public class Leet75_1768 {

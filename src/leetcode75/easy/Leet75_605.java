@@ -1,4 +1,4 @@
-package leetcode75;
+package leetcode75.easy;
 
 /**
  * 605. Can Place Flowers

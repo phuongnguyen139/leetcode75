@@ -1,4 +1,4 @@
-package leetcode75;
+package leetcode75.easy;
 
 //643. Maximum Average Subarray I
 /* You are given an integer array nums consisting of n elements, and an integer k.

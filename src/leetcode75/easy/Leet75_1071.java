@@ -1,4 +1,4 @@
-package leetcode75;
+package leetcode75.easy;
 
 // Greatest Common Divisor of Strings (Tìm ước chung lớn nhất của chuỗi)
 public class Leet75_1071 {
